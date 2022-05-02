@@ -33,7 +33,7 @@ class DepthCalculator {
     }
 }
 
-const depthCalc = new DepthCalculator();
+// const depthCalc = new DepthCalculator();
 
 module.exports = {
     DepthCalculator
